@@ -1,3 +1,15 @@
 [data-name='name'] {
   color: blue;
 }
+
+li {
+  color: blue;
+}
+
+.home {
+  color: red;
+}
+
+#home {
+  color: gray;
+}
