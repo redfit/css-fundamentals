@@ -1,9 +1,5 @@
-[data-name='name'] {
-  color: blue;
-}
-
 li {
-  color: blue;
+  color: red;
 }
 
 .home {
@@ -12,4 +8,12 @@ li {
 
 #home {
   color: gray;
+}
+
+[data-name='name'] {
+  color: blue;
+}
+
+li {
+  color: blue;
 }
